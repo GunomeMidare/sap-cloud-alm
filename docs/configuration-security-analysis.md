@@ -10,3 +10,6 @@ The goal of this file is to document information regarding Configuration & Secur
 
 #### SAP Notes
 - [3552328 - When is Configuration and Security Analysis (CSA) information collected from managed system for monitoring in Cloud ALM?](https://me.sap.com/notes/3382241/E)
+
+#### Troubleshooting
+- [3291964 - SAP Cloud ALM Troubleshooting - Configuration & Security Analysis](https://me.sap.com/notes/3291964/E)
