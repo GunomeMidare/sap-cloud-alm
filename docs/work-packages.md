@@ -1,4 +1,4 @@
-| Title / Action                                   | Capability / Swimlane | Phase | Owner | Dependencies (optional) |
+p| Title / Action                                   | Capability / Swimlane | Phase | Owner | Dependencies (optional) |
 |--------------–-----------------------------------|-----------------------|-------|-------|-------------------------|
 | Set up SAP Cloud Identity Services (IAS + IPS) | Security & Identity | Build Foundation | Security Lead | Corporate IdP details |
 | Configure SSO for Fiori Launchpad | Security & Identity | Build Foundation | Security Lead | WP-SEC-01 |
@@ -32,4 +32,4 @@ Review and implement the Achmea Enterprise Security Architecture (ESA) recommend
 - Set up fine-grained authorization for SAP Cloud Identity Services using Authorization Policies
 - Define and implement signing certificate renewal procedure for SAP Cloud Identity Services aligned with Achmea security policies
 - Set up run organization and support procedures for SAP Cloud Identity Services
-
+- Complete SAP Cloud Identity Services audit log integration into SecurityBridge
